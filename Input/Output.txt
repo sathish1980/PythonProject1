@@ -1,0 +1,35 @@
+- A body pointing to the cell with the value with a review mark [ T1 ] with different returnId
+[11.06.2025 22:52:03] [INFO] STEP 2: [
+[11.06.2025 22:52:03] [INFO] STEP 2:     {
+[11.06.2025 22:52:03] [INFO] STEP 2:         'CellPath': 'ID.Towidt89',
+[11.06.2025 22:52:03] [INFO] STEP 2:         'returnID': 0
+[11.06.2025 22:52:03] [INFO] STEP 2:     },
+[11.06.2025 22:52:03] [INFO] STEP 2:         {
+[11.06.2025 22:52:03] [INFO] STEP 2:         'CellPath': 'ID.Towidt89',
+[11.06.2025 22:52:03] [INFO] STEP 2:         'returnID': 1
+[11.06.2025 22:52:03] [INFO] STEP 2:     },
+[11.06.2025 22:52:03] [INFO] STEP 2:         {
+[11.06.2025 22:52:03] [INFO] STEP 2:         'CellPath': 'ID.Towidt89',
+[11.06.2025 22:52:03] [INFO] STEP 2:         'returnID': 1000
+[11.06.2025 22:52:03] [INFO] STEP 2:     },
+[11.06.2025 22:52:03] [INFO] STEP 2:         {
+[11.06.2025 22:52:03] [INFO] STEP 2:         'CellPath': 'T4Slip[1].Toatsc4',
+[11.06.2025 22:52:03] [INFO] STEP 
+... <truncated>- A body pointing to the cell with the value with a review mark [ T1 ] with different returnId
+[11.06.2025 22:52:03] [INFO] STEP 2: [
+[11.06.2025 22:52:03] [INFO] STEP 2:     {
+[11.06.2025 22:52:03] [INFO] STEP 2:         'CellPath': 'ID.Towidt89',
+[11.06.2025 22:52:03] [INFO] STEP 2:         'returnID': 0
+[11.06.2025 22:52:03] [INFO] STEP 2:     },
+[11.06.2025 22:52:03] [INFO] STEP 2:         {
+[11.06.2025 22:52:03] [INFO] STEP 2:         'CellPath': 'ID.Towidt89',
+[11.06.2025 22:52:03] [INFO] STEP 2:         'returnID': 1
+[11.06.2025 22:52:03] [INFO] STEP 2:     },
+[11.06.2025 22:52:03] [INFO] STEP 2:         {
+[11.06.2025 22:52:03] [INFO] STEP 2:         'CellPath': 'ID.Towidt89',
+[11.06.2025 22:52:03] [INFO] STEP 2:         'returnID': 1000
+[11.06.2025 22:52:03] [INFO] STEP 2:     },
+[11.06.2025 22:52:03] [INFO] STEP 2:         {
+[11.06.2025 22:52:03] [INFO] STEP 2:         'CellPath': 'T4Slip[1].Toatsc4',
+[11.06.2025 22:52:03] [INFO] STEP 
+... <truncated>
