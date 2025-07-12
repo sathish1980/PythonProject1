@@ -9,10 +9,11 @@ from selenium.webdriver.edge.service import Service as EdgeService
 
 class day1():
 
-    def launch(self):
-        #webdriver.Chrome(service=ChromeService(executable_path=ChromeDriverManager().install()))
-
-        driver = webdriver.Edge(service=EdgeService(executable_path=EdgeChromiumDriverManager().install()))
+    def launch(self,browser):
+        if(browser=="Chrome"):
+            driver = webdriver.Chrome(service=ChromeService(executable_path=ChromeDriverManager().install()))
+        else:
+            driver = webdriver.Edge(service=EdgeService(executable_path=EdgeChromiumDriverManager().install()))
         driver.maximize_window() # Maximize
         #driver.minimize_window()
         driver.get("https://www.google.com/") # enter the url
@@ -29,4 +30,4 @@ class day1():
         time.sleep(5)
 
 obj = day1()
-obj.launch()
+obj.launch("Edge")
