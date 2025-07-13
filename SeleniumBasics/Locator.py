@@ -44,10 +44,8 @@ class Locator():
         # Move to next tag - > div[class="_6lux"]>input
 
         actualbrowser.find_element(by=By.XPATH,value="/html/body/div/div/div/div/div/div/div[2]/div/div/form/div/div/input").send_keys("test")
-
-
-
-
+        actualbrowser.find_element(by=By.XPATH,
+                                   value="//*[@type='text']").send_keys("test")
 
         time.sleep(2)
 
