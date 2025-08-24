@@ -1,6 +1,9 @@
 class Testdata:
 
     def test(self):
-        pass
+        print("sathish")
+        return 0
+        print("fita")
+
     def test1(self):
         pass
